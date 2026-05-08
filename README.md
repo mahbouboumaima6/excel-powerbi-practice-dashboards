@@ -8,7 +8,8 @@ and dashboard design skills using HR datasets.
 ## Project 1 — HR Dashboard in Excel
 
 ### Dashboard Preview
-![Excel HR Dashboard](01_Excel_HR_Dashboard/dashboard_screenshot.png)
+<img width="952" height="583" alt="dashboard_screenshot png" src="https://github.com/user-attachments/assets/fa03006f-008e-404d-82f6-8a30aee42c35" />
+
 
 ### What this project covers
 - Built an interactive HR dashboard analyzing 50 employees
@@ -41,7 +42,8 @@ Excel (Pivot Tables · Slicers · Charts · Conditional Formatting)
 ## Project 2 — HR Attrition Dashboard in Power BI
 
 ### Dashboard Preview
-![Power BI HR Dashboard](02_PowerBI_HR_Dashboard/dashboard_screenshot.png)
+<img width="587" height="329" alt="dashboard_screenshot" src="https://github.com/user-attachments/assets/d70f1240-ef5f-4d10-b0c7-8036dc5a684b" />
+
 
 ### What this project covers
 - Analyzed employee attrition patterns across multiple departments
