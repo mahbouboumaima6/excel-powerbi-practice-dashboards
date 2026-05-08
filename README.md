@@ -1,2 +1,168 @@
-# excel-powerbi-practice-dashboards
-HR dashboards built in Excel and Power BI to practice data visualization skills
+**# HR Dashboards — Excel \& Power BI**
+
+
+
+Practice projects built to develop data visualization 
+
+and dashboard design skills using HR datasets.
+
+
+
+\---
+
+
+
+**## Project 1 — HR Dashboard in Excel**
+
+
+
+\### Dashboard Preview
+
+!\[Excel HR Dashboard](01\_Excel\_HR\_Dashboard/dashboard\_screenshot.png)
+
+
+
+\### What this project covers
+
+\- Built an interactive HR dashboard analyzing 50 employees
+
+&#x20; across 6 departments
+
+\- Created 7 Pivot Tables to summarize key HR metrics
+
+\- Implemented dynamic slicers for Gender and Department filtering
+
+\- Designed custom dark-theme layout with branded color scheme
+
+\- Visualized Skills Breakdown, Work Location distribution,
+
+&#x20; Age Range by Gender, Leave Tracking, and Salary by Job Title
+
+
+
+\### Key metrics tracked
+
+\- Total headcount split by gender (48% Male / 52% Female)
+
+\- Employment status breakdown (Full-Time, Part-Time, Contract)
+
+\- Average Performance Rating by department
+
+\- Salary mass by job title
+
+\- Employee distribution by region and work location
+
+
+
+\### Excel skills demonstrated
+
+\- Pivot Tables with custom grouping
+
+\- Dynamic slicers connected to multiple charts
+
+\- Conditional formatting
+
+\- Custom chart design and formatting
+
+\- Dashboard layout and visual hierarchy
+
+
+
+\### Tools
+
+Excel (Pivot Tables · Slicers · Charts · Conditional Formatting)
+
+
+
+\---
+
+
+
+**## Project 2 — HR Attrition Dashboard in Power BI**
+
+
+
+\### Dashboard Preview
+
+!\[Power BI HR Dashboard](02\_PowerBI\_HR\_Dashboard/dashboard\_screenshot.png)
+
+
+
+\### What this project covers
+
+\- Analyzed employee attrition patterns across multiple departments
+
+\- Built 6 KPI cards tracking Total Employees, Active Employees,
+
+&#x20; Attrition Count, Attrition Rate, Average Age, and Avg Experience
+
+\- Created Matrix visual showing Attrition by Job Role
+
+&#x20; and Job Satisfaction level
+
+\- Analyzed attrition patterns by Salary Slab, Gender,
+
+&#x20; Age Group, and Years of Experience
+
+
+
+\### Key insights
+
+\- Attrition Rate of 16.3% across the organization
+
+\- Salary slab analysis reveals employees in 6-10 LPA range
+
+&#x20; have highest attrition count at 399
+
+\- Matrix shows Laboratory Technicians with low satisfaction
+
+&#x20; scores drive highest exits
+
+\- Attrition trend by experience peaks in early career years
+
+
+
+\### Power BI skills demonstrated
+
+\- DAX measures (Attrition Rate, Attrition Count)
+
+\- Multiple visual types (Donut, Bar, Matrix, Pie, Area, Funnel)
+
+\- Interactive slicers (Department, Age Group)
+
+\- Custom dark theme with consistent color palette
+
+\- KPI card design with icons
+
+
+
+\### Tools
+
+Power BI Desktop (DAX · Visualizations · Slicers · KPI Cards)
+
+
+
+\---
+
+
+
+\## Skills Demonstrated Across Both Projects
+
+
+
+| Skill | Excel Project | Power BI Project |
+
+|-------|--------------|-----------------|
+
+| Data aggregation | Pivot Tables | DAX measures |
+
+| Interactive filtering | Slicers | Slicers |
+
+| KPI tracking | Summary cards | Card visuals |
+
+| Charts | Bar, Column, Donut | Bar, Donut, Area, Funnel |
+
+| Design | Dark custom theme | Dark custom theme |
+
+| HR metrics | Headcount, Salary, Performance | Attrition, Salary, Age |
+
