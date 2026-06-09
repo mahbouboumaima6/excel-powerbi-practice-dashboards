@@ -1,6 +1,6 @@
-# HR Dashboards — Excel & Power BI
+# HR Dashboard — Excel 
 
-Practice projects built to develop data visualization 
+Practice project built to develop data analysis, visualization, 
 and dashboard design skills using HR datasets.
 
 ---
